@@ -1,1 +1,1 @@
-web: gunicorn easy_pass_api:app
+web: gunicorn app:app
